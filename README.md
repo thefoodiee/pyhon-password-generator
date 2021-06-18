@@ -11,4 +11,4 @@ main.py adds the password to the text file on your local computer
 
 fetch.py can be used to copy a specefic password or username to the clipboard
 
-## INSTALL REQUIREMENTS.TXT BEOFRE RUNNING THE PROGRAM 
+## INSTALL PYPERCLIP BEOFRE RUNNING THE PROGRAM 
