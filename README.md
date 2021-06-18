@@ -10,7 +10,7 @@ there are 2 programs main.py and fetch.py
 
 main.py adds the password to the text file on your local computer
 
-passwords.txt contains somaple passwords
+passwords.txt contains sample passwords
 
 fetch.py can be used to copy a specefic password or username to the clipboard
 
