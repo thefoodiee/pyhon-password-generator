@@ -1,1 +1,1 @@
-# pyhon-password-generator
+# python-password-generator
